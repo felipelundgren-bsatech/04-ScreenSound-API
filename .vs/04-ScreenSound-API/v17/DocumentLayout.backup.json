@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\modelos\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:modelos\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:filtros\\linqfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:filtros\\linqorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\modelos\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:modelos\\musicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|c:\\users\\felipe.lundgren\\documents\\github\\04-screensound-api\\modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C81F596-444D-4DD9-9905-B305860CB778}|04-ScreenSound-API.csproj|solutionrelative:modelos\\musicaspreferidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +34,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MusicasPreferidas.cs",
               "DocumentMoniker": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Modelos\\MusicasPreferidas.cs",
               "RelativeDocumentMoniker": "Modelos\\MusicasPreferidas.cs",
-              "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Modelos\\MusicasPreferidas.cs*",
-              "RelativeToolTip": "Modelos\\MusicasPreferidas.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA9wCkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Modelos\\MusicasPreferidas.cs",
+              "RelativeToolTip": "Modelos\\MusicasPreferidas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T18:37:06.928Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LinqOrder.cs",
               "DocumentMoniker": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Filtros\\LinqOrder.cs",
               "RelativeDocumentMoniker": "Filtros\\LinqOrder.cs",
@@ -60,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "LinqFilter.cs",
               "DocumentMoniker": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Filtros\\LinqFilter.cs",
               "RelativeDocumentMoniker": "Filtros\\LinqFilter.cs",
               "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Filtros\\LinqFilter.cs",
               "RelativeToolTip": "Filtros\\LinqFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T17:45:40.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Musicas.cs",
               "DocumentMoniker": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Modelos\\Musicas.cs",
               "RelativeDocumentMoniker": "Modelos\\Musicas.cs",
               "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Modelos\\Musicas.cs",
               "RelativeToolTip": "Modelos\\Musicas.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T17:10:57.145Z",
               "EditorCaption": ""
@@ -90,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T16:13:49.963Z",
               "EditorCaption": ""
