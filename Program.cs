@@ -1,5 +1,6 @@
 ﻿using _04_ScreenSound_API.Modelos;
 using System.Text.Json;
+using _04_ScreenSound_API.Filtros;
 
 using (HttpClient client = new HttpClient())
 {
@@ -8,8 +9,11 @@ using (HttpClient client = new HttpClient())
         string resposta = await client.GetStringAsync("https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!;
         Console.WriteLine(musicas.Count);
+        //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
+        //LinqOrder.ExibirListaDeArtistaOrdenados(musicas);
+        //LinqFilter.FiltrarArtistasPorGeneroMusical(musicas, "pop");
+        LinqFilter.FiltrarMusicasDeUmArtista(musicas, "Michel Teló");
 
-        musicas[1998].ExibirDetalhesDaMusica();
     }
     catch (Exception ex)
     {
