@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felipe.lundgren\\Desktop\\04API\\04-ScreenSound-API\\04-ScreenSound-API.csproj",
+      "projectUniqueName": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\04-ScreenSound-API.csproj",
       "projectName": "04-ScreenSound-API",
-      "projectPath": "C:\\Users\\felipe.lundgren\\Desktop\\04API\\04-ScreenSound-API\\04-ScreenSound-API.csproj",
+      "projectPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\04-ScreenSound-API.csproj",
       "packagesPath": "C:\\Users\\felipe.lundgren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felipe.lundgren\\Desktop\\04API\\04-ScreenSound-API\\obj\\",
+      "outputPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\04-ScreenSound-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felipe.lundgren\\AppData\\Roaming\\NuGet\\NuGet.Config",

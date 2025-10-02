@@ -1,0 +1,15 @@
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\bin\Debug\net9.0\04-ScreenSound-API.exe
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\bin\Debug\net9.0\04-ScreenSound-API.deps.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\bin\Debug\net9.0\04-ScreenSound-API.runtimeconfig.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\bin\Debug\net9.0\04-ScreenSound-API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\bin\Debug\net9.0\04-ScreenSound-API.pdb
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.AssemblyInfoInputs.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.AssemblyInfo.cs
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.csproj.CoreCompileInputs.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.sourcelink.json
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\refint\04-ScreenSound-API.dll
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.pdb
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\04-ScreenSound-API.genruntimeconfig.cache
+C:\Users\felipe.lundgren\Documents\GitHub\04-ScreenSound-API\obj\Debug\net9.0\ref\04-ScreenSound-API.dll
